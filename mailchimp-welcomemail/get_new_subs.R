@@ -6,7 +6,7 @@ library(RCurl)
 library(jsonlite)
 library(dplyr)
 
-# 0. SETUP
+# 0. SETUP tes
 # 0.1. working directory
 # set dynamically based on user 
 if(Sys.info()[["user"]] == "frie"){
